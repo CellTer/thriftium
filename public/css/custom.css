@@ -1,0 +1,36 @@
+body {
+font-family: 'Open Sans', sans-serif;
+background-color: white;
+}
+
+.banner img {
+    width: 50%;
+    border-radius: 15px;
+}
+
+.pilih-clothe img{
+    max-height: 100px;
+
+}
+
+.pilih-clothe .card{
+    border-radius: 15px;
+}
+
+.products .card{
+    border-radius: 15px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb .active {
+    font-weight: bold;
+    color: black;
+}
+
+.btn-dark {
+    border-radius: 10px;
+}
